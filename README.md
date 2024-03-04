@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomo
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning computer vision in China
+- 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on Computer vision
 - 📫 How to reach me rdtomo@hotmail.com
 
